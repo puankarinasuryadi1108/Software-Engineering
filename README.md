@@ -1,2 +1,2 @@
 # Software-Engineering
-Puan Karina Suryadi (001201900090)
+Puan Karina Suryadi-IT2 (001201900090)
